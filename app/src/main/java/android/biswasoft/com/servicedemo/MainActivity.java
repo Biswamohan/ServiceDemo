@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 TextView tv;
 Button btn;
 Button btn2;
+TextView tv2;
 
 public ServiceConnection serviceConnection;
 public  boolean isServiceConnected;
