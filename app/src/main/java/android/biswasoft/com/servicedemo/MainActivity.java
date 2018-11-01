@@ -13,6 +13,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 TextView tv;
 Button btn;
+Button btn2;
 
 public ServiceConnection serviceConnection;
 public  boolean isServiceConnected;
